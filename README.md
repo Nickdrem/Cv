@@ -10,7 +10,7 @@ Este es un proyecto de currículum vitae desarrollado en HTML y CSS.
 
 ## Uso
 
-Para visualizar el currículum, simplemente abre el archivo `index.html` en tu navegador web. Puedes modificar el contenido del currículum en el archivo HTML y ajustar los estilos en el archivo CSS según tus necesidades.
+Para visualizar el currículum, simplemente abre el archivo `CV.html` en tu navegador web. Puedes modificar el contenido del currículum en el archivo HTML y ajustar los estilos en el archivo CSS según tus necesidades.
 
 ## Detalles del Currículum
 
