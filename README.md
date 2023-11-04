@@ -2,6 +2,10 @@
 
 https://www.figma.com/file/tVEbQD7KrBswOWaVjEPRt6/Resume-%2F-CV-Template-by-Hakeem-Olasupo-(Community)?type=design&node-id=1%3A2&mode=design&t=nT9A8tGdvYMMEi0p-1
 
+###Link to the Curriculum
+
+https://nickdrem.github.io/CV.html
+
 ##PROJECT ANALYSIS
 
 ### Target user profile
