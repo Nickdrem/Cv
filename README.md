@@ -20,7 +20,7 @@ El currículum incluye secciones como "Información de contacto", "Experiencia",
 
 Este proyecto fue creado por [Tu Nombre] y puede ser utilizado como una plantilla base para crear tu propio currículum en línea.
 
-![Currículum](a.jpg)
+![Currículum](CV.htmñ)
 
 ## Contacto
 
