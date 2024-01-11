@@ -4,7 +4,7 @@ https://www.figma.com/file/tVEbQD7KrBswOWaVjEPRt6/Resume-%2F-CV-Template-by-Hake
 
 ###Link to the Curriculum
 
-https://nickdrem.github.io/login.html
+https://nickdrem.github.io/index.html
 
 ##PROJECT ANALYSIS
 
